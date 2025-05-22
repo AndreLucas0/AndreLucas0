@@ -1,8 +1,6 @@
 # André Lucas Ferreira
 
 #### Sou um desenvolvedor Java Back-End em formação, com uma base sólida em desenvolvimento de software, programação orientada a objetos (POO) e bancos de dados relacionais e não relacionais. Atualmente curso Análise e Desenvolvimento de Sistemas no SENAI e tenho experiência prática com tecnologias como Java, Spring Boot (em aprendizado), PostgreSQL, MongoDB, Git e APIs RESTful. 
-#### Já desenvolvi projetos acadêmicos e pessoais utilizando Java, Python e JavaScript, sempre focando em boas práticas de código limpo, persistência de dados e design responsivo. Também tenho familiaridade com metodologias ágeis como Scrum e Kanban, além do uso de ferramentas de controle de versão como Git e GitHub.
-#### Sou apaixonado por tecnologias back-end, desenvolvimento de APIs e criação de sistemas escaláveis. Busco crescer profissionalmente em um time inovador que valorize a melhoria contínua, o trabalho em equipe e os princípios modernos da engenharia de software.
 #### No momento, estou em busca de uma oportunidade de estágio ou vaga júnior em desenvolvimento back-end, onde eu possa aplicar meus conhecimentos técnicos e contribuir com projetos reais enquanto continuo aprendendo.
 
 ## Conecte-se comigo
