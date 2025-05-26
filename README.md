@@ -1,3 +1,4 @@
+<div style="background-color: black; color: white;">
 # André Lucas Ferreira
 
 #### Sou um desenvolvedor Java Back-End em formação, com uma base sólida em desenvolvimento de software, programação orientada a objetos (POO) e bancos de dados relacionais e não relacionais. Atualmente curso Análise e Desenvolvimento de Sistemas no SENAI e tenho experiência prática com tecnologias como Java, Spring Boot (em aprendizado), PostgreSQL, MongoDB, Git e APIs RESTful. 
@@ -20,3 +21,5 @@
 ## Meus principais projetos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=Agregador-de-Links&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreLucas0/Agregador-de-Links) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=Perfil&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreLucas0/Perfil) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=bankaccount-project-oop&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreLucas0/bankaccount-project-oop) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=empresa-ex8-project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreLucas0/empresa-ex8-project) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=FAQ&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreLucas0/FAQ)
+
+</div>
