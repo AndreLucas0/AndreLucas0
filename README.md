@@ -1,9 +1,9 @@
 # André Lucas Ferreira
 
-#### Sou um desenvolvedor Java Back-End em formação, com uma base sólida em desenvolvimento de software, programação orientada a objetos (POO) e bancos de dados relacionais e não relacionais. Atualmente curso Análise e Desenvolvimento de Sistemas no SENAI e tenho experiência prática com tecnologias como Java, Spring Boot (em aprendizado), PostgreSQL, MongoDB, Git e APIs RESTful. 
-#### No momento, estou em busca de uma oportunidade de estágio ou vaga júnior em desenvolvimento back-end, onde eu possa aplicar meus conhecimentos técnicos e contribuir com projetos reais enquanto continuo aprendendo.
+#### Sou um desenvolvedor Full Stack em formação. Atualmente curso Análise e Desenvolvimento de Sistemas no SENAI e tenho experiência prática com tecnologias como Java, Spring Boot, Angular, PostgreSQL, MySQL, APIs RESTful e controle de versão com Git. 
+#### No momento, estou em busca de uma oportunidade de estágio ou vaga júnior em desenvolvimento full stack, onde eu possa aplicar meus conhecimentos técnicos e contribuir com projetos reais enquanto continuo aprendendo.
 
-## Conecte-se comigo
+## Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-lucas-ferreira/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreLucas0)
