@@ -18,7 +18,7 @@
 ---
 
 ### Habilidades
-
+<br>
 <div align="center">
   
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black)
