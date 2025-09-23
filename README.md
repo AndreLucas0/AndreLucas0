@@ -14,7 +14,7 @@
 
 ## GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AndreLucas0&show_icons=true&theme=github_dark&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=ffffff" /><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLucas0&layout=compact&bg_color=000&hide_border=true&title_color=FFFFFF&text_color=FFF)<br>[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AndreLucas0&theme=github_dark&background=000&hide_border=true&ring=FFFFFF&text_color=FFFFFF&dates=FFF)](...)
+<img src="https://github-readme-stats.vercel.app/api?username=AndreLucas0&show_icons=true&theme=github_dark&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=ffffff" /><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLucas0&layout=compact&bg_color=000&hide_border=true&title_color=FFFFFF&text_color=FFF)<br>[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AndreLucas0&theme=github_dark&background=000&hide_border=true&ring=FFFFFF&stroke=FFFFFF&fire=FFFFFF&dates=FFF)](...)
 
 
 
