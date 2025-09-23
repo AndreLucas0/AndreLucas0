@@ -7,8 +7,6 @@
 #### Atualmente curso Análise e Desenvolvimento de Sistemas no SENAI e tenho experiência prática como desenvolvedor full stack com tecnologias como Java, Spring Boot, Angular, PostgreSQL, MySQL, APIs RESTful e controle de versão com Git. 
 #### No momento, estou em busca de uma oportunidade de estágio ou vaga júnior em desenvolvimento full stack, onde eu possa aplicar meus conhecimentos técnicos e contribuir com projetos reais enquanto continuo aprendendo.
 
-## Conecte-se comigo!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-lucas-ferreira/)
