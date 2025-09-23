@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=1000&color=FFFFFF&background=6AF9FF00&vCenter=true&width=435&lines=Ol%C3%A1!%F0%9F%91%8B;Eu+sou+o+André+Lucas!)](https://git.io/typing-svg)
-
 <hr>
 
 #### Atualmente curso Análise e Desenvolvimento de Sistemas no SENAI e tenho experiência prática como desenvolvedor full stack com tecnologias como Java, Spring Boot, Angular, PostgreSQL, MySQL, APIs RESTful e controle de versão com Git. 
