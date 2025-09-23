@@ -11,14 +11,14 @@
 ## Habilidades
 
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=DD0031)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
 
 
 ## GitHub stats
