@@ -15,7 +15,9 @@
 
 </div>
 
-## Habilidades
+---
+
+### Habilidades
 
 <div align="center">
   
@@ -31,7 +33,9 @@
 
 </div>
 
-## GitHub stats
+---
+
+### GitHub stats
 
 <div align="center">
   
@@ -39,7 +43,9 @@
 
 </div>
 
-## Meus principais projetos
+---
+
+### Meus principais projetos
 
 <div align="center">
   
