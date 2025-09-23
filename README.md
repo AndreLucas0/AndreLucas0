@@ -51,6 +51,6 @@
 <br>
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=bankaccount-project-oop&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/AndreLucas0/bankaccount-project-oop) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=CRUD-product&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFF)](https://github.com/AndreLucas0/CRUD-product/tree/main)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=bankaccount-project-oop&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/AndreLucas0/api-controle-de-gastos) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=CRUD-product&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFF)](https://github.com/AndreLucas0/product-categories-railway) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=CRUD-product&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFF)](https://github.com/AndreLucas0/todo-list-full-stack)
 
 </div>
