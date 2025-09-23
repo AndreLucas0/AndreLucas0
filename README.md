@@ -21,7 +21,7 @@
 
 <div align="center">
   
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=black)
