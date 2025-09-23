@@ -5,11 +5,17 @@
 
 ## Conecte-se comigo!
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-lucas-ferreira/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreLucas0)
 
+</div>
+
 ## Habilidades
 
+<div align="center">
+  
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=black)
@@ -20,6 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
 
+</div>
 
 ## GitHub stats
 
@@ -31,4 +38,8 @@
 
 ## Meus principais projetos
 
+<div align="center">
+  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=bankaccount-project-oop&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/AndreLucas0/bankaccount-project-oop) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLucas0&repo=CRUD-product&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFF)](https://github.com/AndreLucas0/CRUD-product/tree/main)
+
+</div>
