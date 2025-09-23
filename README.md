@@ -11,7 +11,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-lucas-ferreira/)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:andrelucasferreira3103@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:andrelucasferreira3103@gmail.com)
 
 </div>
 
