@@ -10,7 +10,16 @@
 
 ## Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 	![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) !![Badge](https://img.shields.io/badge/Java-Backend-white?logo=openjdk&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=DD0031)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717)
+
 
 ## GitHub stats
 
